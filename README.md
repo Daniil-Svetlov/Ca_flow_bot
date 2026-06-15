@@ -15,7 +15,7 @@
 - **Frontend:** HTML5, CSS3 (Grid/Flexbox, переменные темы Telegram), JavaScript (Fetch API, DOM-анимации)
 - **Инструменты локального окружения:** Nginx, PHP-FPM (Homebrew macOS), ngrok (для туннелирования Webhook)
 
-## ⚠️ Приложение находится в стадии активного тестирования и может быть временно недоступно.
+## ⚠️ Приложение находится в стадии разработки и тестирования и может быть временно недоступно.
   
 <img width="384" height="687" alt="image" src="https://github.com/user-attachments/assets/4934989f-14a4-4902-8f1a-243031781d36" />
 
