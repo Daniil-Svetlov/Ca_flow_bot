@@ -18,3 +18,6 @@
 ## ⚠️ Приложение находится в стадии активного тестирования и может быть временно недоступно.
   
 <img width="384" height="687" alt="image" src="https://github.com/user-attachments/assets/4934989f-14a4-4902-8f1a-243031781d36" />
+
+**Пример работы**
+<img width="1317" height="372" alt="image" src="https://github.com/user-attachments/assets/3d052b68-bc2e-40fe-809f-a14e1df63f8d" />
